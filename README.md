@@ -1,23 +1,22 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./.github/lobinho.gif" width="px">
+  <img src="https://user-images.githubusercontent.com/32386767/96053419-013f0c80-0e6f-11eb-8e90-b25f70b99a03.gif" height="200" width="200"/>
    <br><br>
   <samp>
-    👋 Olá, Eu sou um Desenvolvedor Web
+    👋 Hi there! I'm a technology enthusiast and a programmer
   </samp>
-  <p align="center"><a href="./README.md">Em Inglês ➤</a></p>
+  <p align="center"><a href="./README.pt-br.md">In Portuguese ➤</a></p>
   
 </p>
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Olá, meu nome é Miguel Riquelme e atualmente tenho 18 anos,<br> trabalho na <a href="https://www.facebook.com/EvveComunicacao">EVVE Comunicações</a> desenvolvendo sites, apps e alguns<br> sistemas. Eu estou estudando <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> e por último,<br> mas não menos importante <a href="https://www.typescriptlang.org/">Typescript</a> 
+Hi dear, my name is Miguel Riquelme and I'm currently 18 years old,<br> work on <a href="https://www.facebook.com/EvveComunicacao">EVVE Comunicações</a> developing websites, apps and some<br> systems. I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> and last<br> but not least <a href="https://www.typescriptlang.org/">Typescript</a> 
 </p>
-
 <!-- QUOTE -->
 <br>
 <p align="center">
-"Que seu trabalho seja perfeito para que, mesmo depois de sua morte, permaneça."
+"May your work be perfect so that, even after your death, it remains."
 <br>
 ― Leonardo da Vinci
 </p>
