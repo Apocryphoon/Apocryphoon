@@ -11,7 +11,7 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hello, my name is Ricardo Cardoso and I'm currently 20 years old,<br> I'm not working, just studying, apps and some<br> systems. I'm studying <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://dotnet.microsoft.com/">CSharp</a> and last<br> but not least C
+Hello, my name is Ricardo Cardoso and I'm currently 22 years old,<br> I'm working for programming and studying, apps and some<br> systems.
 </p>
 <!-- QUOTE -->
 <br>
