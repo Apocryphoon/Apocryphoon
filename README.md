@@ -22,7 +22,7 @@ Hello, my name is Ricardo Cardoso and I'm currently 22 years old,<br> I'm workin
 </p>
 <br>
 
-<!-- SOCIAL MEDIAS -->
+<!-- SOCIAL MEDIAS 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="24" height="24"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="24" height="24"/>
@@ -30,7 +30,7 @@ Hello, my name is Ricardo Cardoso and I'm currently 22 years old,<br> I'm workin
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24" height="24"/></p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Apocryphoon&show_icons=true" alt="Apocryphoon"/>
-</p>
+</p>-->
 
 <p align="center">
 <a href="https://twitter.com/Apocryphoon_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="miguelrisquelme" height="20" width="20" /></a>
