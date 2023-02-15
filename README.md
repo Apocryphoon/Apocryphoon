@@ -3,10 +3,9 @@
 <h1 align="left">Hi, I'm Ricardo Cardoso
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
-<p align="left"> I have contact with development since 2012.
-<br>I've been working on it since 2017.
-<br>I'm an enthusiast of technology and open source projects and what it can provide us!
-<br><img src="https://komarev.com/ghpvc/?username=Apocryphoon&color=191b1e" alt="Profile views" /> </p>
+<p align="left"> I have contact with development since 2012, i am been working on it since 2017.
+<br>I'm an enthusiast of technology and open source projects and what it can provide!
+<br><br><img src="https://komarev.com/ghpvc/?username=Apocryphoon&color=191b1e" alt="Profile views" /> </p>
 
 <br>
 
@@ -35,15 +34,15 @@
  <img src="https://img.shields.io/badge/reactJs-rgb(25,%2027,%2030)?style=for-the-badge&logo=react&logoColor=rgb(150,%20118,%20228)" alt="reactJs"/>
 
   <!-- new here-->
- <img src="https://img.shields.io/badge/csharp-rgb(25,%2027,%2030)?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+ <img src="https://img.shields.io/badge/csharp-rgb(25,%2027,%2030)?style=for-the-badge&logo=csharp&logoColor=rgb(150, 118, 228)" alt="C#"/>
 
- <img src="https://img.shields.io/badge/.net-rgb(25,%2027,%2030)?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+ <img src="https://img.shields.io/badge/.net-rgb(25,%2027,%2030)?style=for-the-badge&logo=.net&logoColor=rgb(150, 118, 228)" alt=".NET"/>
 
- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+ <img src="https://img.shields.io/badge/python-rgb(25,%2027,%2030)?style=for-the-badge&logo=python&logoColor=rgb(150, 118, 228)" alt="Python"/>
 
- <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node"/>
+ <img src="https://img.shields.io/badge/node.js-rgb(25,%2027,%2030)?style=for-the-badge&logo=node.js&logoColor=rgb(150, 118, 228)" alt="Node"/>
 
- <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+ <img src="https://img.shields.io/badge/lua-rgb(25,%2027,%2030)?style=for-the-badge&logo=lua&logoColor=rgb(150, 118, 228)" alt="Lua"/>
 </p>
   
 <br>
