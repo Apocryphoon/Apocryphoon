@@ -83,7 +83,6 @@
 ## <img src="images/gato.gif" width="50" align="center"> &nbsp;My Commits
 ![Snake animation](https://github.com/Apocryphoon/Apocryphoon/blob/output/github-contribution-grid-snake.svg)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Apocryphoon&hide_border=true&theme=react-dark)
 
 ----
 
