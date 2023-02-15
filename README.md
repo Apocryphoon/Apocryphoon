@@ -3,10 +3,9 @@
 <h1 align="left">Hi, I'm Ricardo Cardoso
  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
-<p align="left"> I have contact with development since 2012.
-<br>I've been working on it since 2017.
+<p align="left"> I have contact with development since 2012, i am been working on it since 2017.
 <br>I'm an enthusiast of technology and open source projects and what it can provide us!
-<br><img src="https://komarev.com/ghpvc/?username=Apocryphoon&color=191b1e" alt="Profile views" /> </p>
+<br><br><img src="https://komarev.com/ghpvc/?username=Apocryphoon&color=191b1e" alt="Profile views" /> </p>
 
 <br>
 
